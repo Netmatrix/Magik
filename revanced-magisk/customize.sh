@@ -121,15 +121,15 @@ if ! op=$(mm mount -o bind "$RVPATH" "$BASEPATH/base.apk" 2>&1); then
 	ui_print "$op"
 fi
 am force-stop "$PKG_NAME"
-ui_print "* Optimizing $PKG_NAME"
+ui_print "* Optimizando $PKG_NAME"
 nohup cmd package compile --reset "$PKG_NAME" >/dev/null 2>&1 &
 
-ui_print "* Cleanup"
+ui_print "* Limpeza"
 rm -rf "${MODPATH:?}/bin" "$MODPATH/$PKG_NAME.apk"
 
-ui_print "* Done"
+ui_print "* Concluído"
 ui_print " "
-ui_print "  by E85 Addict (github.com/E85Addict)"
+ui_print "  by E85 Addict / NetmatrixPT adapt"
 ui_print "  &"
 ui_print "  by j-hc (github.com/j-hc)"
 ui_print " "
