@@ -1,9 +1,9 @@
 YouTube: 19.16.39
 downloaded from: [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-16-39-release/youtube-19-16-39-android-apk-download/)  
-Music: 7.22.51
-downloaded from: [APKMirror - Music](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-22-51-release/youtube-music-7-22-51-android-apk-download/)  
-TikTok-Latest: 36.9.1
-downloaded from: [APKMirror - TikTok-Latest](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-36-9-1-release/tiktok-36-9-1-android-apk-download/)  
+Music: 7.23.51
+downloaded from: [APKMirror - Music](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-23-51-release/youtube-music-7-23-51-android-apk-download/)  
+TikTok-Latest: 37.0.4
+downloaded from: [APKMirror - TikTok-Latest](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-37-0-4-release/tiktok-37-0-4-2-android-apk-download/)  
 TikTok: 36.5.4
 downloaded from: [APKMirror - TikTok](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-36-5-4-release/tiktok-videos-lives-musik-36-5-4-android-apk-download/)  
 
