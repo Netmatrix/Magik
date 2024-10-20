@@ -1,5 +1,5 @@
-YouTube: 19.16.39
-downloaded from: [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-16-39-release/youtube-19-16-39-android-apk-download/)  
+YouTube: 19.34.42
+downloaded from: [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-34-42-release/youtube-19-34-42-2-android-apk-download/)  
 Music: 7.23.51
 downloaded from: [APKMirror - Music](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-23-51-release/youtube-music-7-23-51-android-apk-download/)  
 TikTok-Latest: 37.0.4
@@ -13,11 +13,11 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/E85Addict/revanced-magisk-module)
   
 CLI: E85Addict/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.15.0.apk  
-Patches: E85Addict/revanced-patches-4.16.0.jar  
-[Changelog](https://github.com/E85Addict/revanced-patches/releases/tag/v4.16.0)
+Integrations: ReVanced/revanced-integrations-1.16.0.apk  
+Patches: E85Addict/revanced-patches-4.17.0.jar  
+[Changelog](https://github.com/E85Addict/revanced-patches/releases/tag/v4.17.0)
 
 CLI: E85Addict/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.15.0.apk  
-Patches: ReVanced/revanced-patches-4.16.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.16.0)  
+Integrations: ReVanced/revanced-integrations-1.16.0.apk  
+Patches: ReVanced/revanced-patches-4.17.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.17.0)  
