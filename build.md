@@ -4,8 +4,6 @@ YouTube: 19.34.42
 downloaded from: [Archive - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-34-42-release/youtube-19-34-42-2-android-apk-download/)  
 TikTok: 36.5.4
 downloaded from: [Archive - TikTok](https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically)  
-TikTok-Latest: 37.1.1                   
-downloaded from: [APKMirror - TikTok-Latest](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-37-1-1-release/tiktok-37-1-1-2-android-apk-download/)  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
