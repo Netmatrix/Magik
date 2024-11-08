@@ -1,9 +1,9 @@
-Music: 7.22.51
-downloaded from: [Archive - Music](https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music)  
 YouTube: 19.34.42
 downloaded from: [Archive - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-34-42-release/youtube-19-34-42-2-android-apk-download/)  
-TikTok-Latest: 37.2.5                   
-downloaded from: [APKMirror - TikTok-Latest](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-37-2-5-release/tiktok-videos-music-live-37-2-5-2-android-apk-download/)  
+TikTok-Latest: 37.2.6                   
+downloaded from: [APKMirror - TikTok-Latest](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-37-2-6-release/tiktok-37-2-6-2-android-apk-download/)  
+Music: 7.22.51
+downloaded from: [Archive - Music](https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music)  
 TikTok: 36.5.4
 downloaded from: [Archive - TikTok](https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically)  
 
